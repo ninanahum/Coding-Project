@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline|Lobster');
+
+body {
+    background-color: pink;
+}
+h1 {
+    background-color: purple;
+    text-align:center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1:hover {
+    background-color: white;
+    text-align:center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+ul li{
+    display: inline-block;
+    font-size: 50px;
+}
+
+a{
+    font-family: 'Lobster', cursive;
+}
+
+
+img {
+    width: 500px;
+    height: 350px;
+}
+/*div{*/
+/*    width: 100px;*/
+/*    height:100px;*/
+/*    background-color: blue;*/
+/*}*/
+.yellow {
+    background-color:yellow; 
+}
+
